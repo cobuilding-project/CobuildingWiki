@@ -23,7 +23,7 @@ const config = {
   url: 'https://thesleepingbyakko.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/CobuildingWiki/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
