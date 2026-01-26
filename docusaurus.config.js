@@ -84,7 +84,7 @@ const config = {
             label: 'Главная',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/thesleepingbyakko/CobuildingWiki',
             label: 'GitHub',
             position: 'right',
           },
