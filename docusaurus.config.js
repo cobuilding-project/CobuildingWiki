@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://cobuilding-project.github.io',
+  url: 'https://wiki.keluashi.space',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/CobuildingWiki/',
+  baseUrl: '/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
